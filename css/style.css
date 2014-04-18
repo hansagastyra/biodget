@@ -1,0 +1,9 @@
+.biodget-avatar{
+    text-align: center;
+    padding: 1em 0;
+}
+.biodget-avatar img{
+    -webkit-border-radius: 50% 50%;
+    -moz-border-radius: 50% 50%;
+    border-radius: 50% 50%;
+}
